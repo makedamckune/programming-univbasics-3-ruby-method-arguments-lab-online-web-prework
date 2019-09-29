@@ -1,9 +1,10 @@
 puts "Enter Name"
 name = gets 
 puts ("Hello there, Welcome"+name)
-puts "Enter Name and Languag"
+puts "Enter Name and Language"
+name = gets
 language = gets
-puts ("Hello I am"+name+"And I am learning to program in")
+puts ("Hello I am"+name+"And I am learning to program in"+language)
 
 
 
