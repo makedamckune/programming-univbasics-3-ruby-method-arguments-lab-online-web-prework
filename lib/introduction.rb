@@ -1,7 +1,8 @@
 puts "Enter Name"
 name = gets 
 puts ("Hello there, Welcome"+name)
-
+puts "Enter Language"
+language = gets
 puts ("Hello I am"+name+"And I am learning to program in")
 
 
